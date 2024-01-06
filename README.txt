@@ -1,5 +1,7 @@
 This project focused on building an intelligent Tetris-playing agent using genetic algorithms and heuristic evaluation functions. By implementing a Tetris game in Python with the Pygame library, the development process included integrating artificial intelligence and employing natural evolution strategies to optimize the agent's decision-making. The AI was trained to consider factors like block clearance and hole minimization, using specific grid parameters for decision precision. Rigorous performance evaluation showcased the success of the AI agent, allowing users to play Tetris independently and observe genetic algorithm training. Overcoming challenges in learning new libraries and principles of genetic algorithms, this project demonstrated the power and potential of AI in game development, emphasizing the effectiveness of genetic algorithms for future projects in the field.
 
+For Full Documentation refer to the Report.pdf file
+
 To launch the application:
 1. Oped Dist Folder
 2. Run Tetris.exe
